@@ -34,9 +34,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="132.91848"
-     inkscape:cy="322.55361"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="389.68139"
+     inkscape:cy="330.76539"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -218,7 +218,7 @@
        inkscape:connector-curvature="0" />
     <g
        id="g2186"
-       transform="translate(1.5119048,-0.39272486)">
+       transform="translate(1.5119048,-0.92726392)">
       <text
          id="text2310"
          y="183.06917"
@@ -259,7 +259,7 @@
     </g>
     <g
        id="g2163"
-       transform="translate(1.5119048,3.6217102)">
+       transform="translate(1.5119048,3.3544407)">
       <text
          id="text2310-8"
          y="213.42599"
@@ -321,15 +321,12 @@
              height="85.862999"
              width="348.50266"
              id="rect2316-7" /></flowRegion><flowPara
-           id="flowPara2318-7"><flowSpan
-             id="flowSpan5684"
-             style="font-weight:bold">Le </flowSpan><flowSpan
-             id="flowSpan5682"
-             style="font-weight:bold">samedi 7 avril</flowSpan></flowPara><flowPara
-           id="flowPara5686"><flowSpan
-             id="flowSpan5688"
-             style="font-weight:bold">L'accueil se fera de 9h30 à 10h</flowSpan></flowPara><flowPara
-           id="flowPara5680">Les travaux dureront jusqu'à 17h30.</flowPara></flowRoot>      <text
+           id="flowPara2318-7"
+           style="font-weight:bold">Le samedi 7 avril</flowPara><flowPara
+           id="flowPara5680"><flowSpan
+   id="flowSpan5688"
+   style="font-weight:bold">L'accueil se fera à 9h30.</flowSpan></flowPara><flowPara
+           id="flowPara2216">Les travaux dureront jusqu'à 17h30.</flowPara></flowRoot>      <text
          id="text2310-5"
          y="154.53288"
          x="111.90482"
