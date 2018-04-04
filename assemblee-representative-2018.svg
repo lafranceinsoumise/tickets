@@ -144,6 +144,7 @@
            id="tspan4609-7"
            sodipodi:role="line">{{ full_name }}</tspan></text>
     </g>
+    <!-- {% if gender %} -->
     <g
        id="g2234"
        transform="translate(1.4758525,3.2983008)">
@@ -170,6 +171,7 @@
            id="tspan4609-7-8"
            sodipodi:role="line">{{ gender }}</tspan></text>
     </g>
+    <!-- {% endif %} -->
     <g
        id="g2228"
        transform="translate(1.5874978,4.0724642)">
