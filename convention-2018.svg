@@ -38,7 +38,7 @@
      inkscape:cx="379.07048"
      inkscape:cy="357.87339"
      inkscape:document-units="mm"
-     inkscape:current-layer="g3990"
+     inkscape:current-layer="g204"
      showgrid="false"
      inkscape:window-width="1850"
      inkscape:window-height="1016"
@@ -199,7 +199,7 @@
        inkscape:connector-curvature="0" />
     <g
        id="g2186"
-       transform="translate(-6.9547622,-12.605335)">
+       transform="translate(-6.9547622,-12.637883)">
       <text
          id="text2310"
          y="183.06917"
@@ -282,35 +282,39 @@
          id="flowPara951" /></flowRoot>    <g
        id="g3990"
        transform="translate(0,-6.3499838)">
-      <flowRoot
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-         id="flowRoot2312-2"
-         xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,87.121897,-1.6144225)"><flowRegion
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           id="flowRegion2314-0"><rect
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-             y="584.1084"
-             x="57.578693"
-             height="93.944199"
-             width="388.90878"
-             id="rect2316-7" /></flowRegion><flowPara
-           style="font-weight:bold"
-           id="flowPara188">Les samedi 8 et dimanche 9 décembre</flowPara><flowPara
-           style="font-weight:normal"
-           id="flowPara192">Samedi : à partir de 10h30, travaux 12h30 - 19h30.</flowPara><flowPara
-           style="font-weight:normal"
-           id="flowPara194">Dimanche : à partir de 8h15, travaux 8h45 - 12h30.</flowPara></flowRoot>      <text
-         id="text2310-5"
-         y="151.66026"
-         x="101.77506"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00aed1;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#00aed1;fill-opacity:1;stroke-width:0.26458332"
-           y="151.66026"
+      <g
+         id="g204"
+         transform="translate(0,8.0338327e-6)">
+        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,87.121897,-1.6144225)"
+           xml:space="preserve"
+           id="flowRoot2312-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+             id="flowRegion2314-0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+               id="rect2316-7"
+               width="388.90878"
+               height="93.944199"
+               x="57.578693"
+               y="584.1084"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+             id="flowPara188"
+             style="font-weight:bold">Les samedi 8 et dimanche 9 décembre</flowPara><flowPara
+             id="flowPara192"
+             style="font-weight:normal">Samedi : à partir de 10h30, travaux 12h30 - 19h30.</flowPara><flowPara
+             id="flowPara194"
+             style="font-weight:normal">Dimanche : à partir de 8h15, travaux 8h45 - 12h30.</flowPara></flowRoot>        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00aed1;fill-opacity:1;stroke:none;stroke-width:0.26458332"
            x="101.77506"
-           id="tspan2308-1"
-           sodipodi:role="line">Quand ?</tspan></text>
+           y="151.66026"
+           id="text2310-5"><tspan
+             sodipodi:role="line"
+             id="tspan2308-1"
+             x="101.77506"
+             y="151.66026"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#00aed1;fill-opacity:1;stroke-width:0.26458332">Quand ?</tspan></text>
+      </g>
     </g>
     <text
        xml:space="preserve"
@@ -405,7 +409,7 @@
          style="stroke-width:0.26458332" /></text>
     <g
        id="g2177"
-       transform="translate(-11.641668,-43.192679)">
+       transform="translate(-11.641668,-43.214384)">
       <text
          id="text2310-3"
          y="244.40048"
@@ -482,7 +486,7 @@
          x="103.16604"
          y="260.12613"
          style="stroke-width:0.26458332" /></text>
-    <!-- {% if bus_origin is defined %} -->
+    <!-- {% if bus_origin %} -->
     <g
        id="g4016"
        transform="translate(0,16.93334)">
@@ -513,8 +517,9 @@
            id="flowPara2216-2">{{ bus_details1 }}</flowPara><flowPara
            id="flowPara4001">{{ bus_details2 }}</flowPara><flowPara
            id="flowPara4005">{{ horaire }}</flowPara></flowRoot>    </g>
+  <!-- {% endif %} -->
     <g
-       transform="translate(-11.937282,-12.683459)"
+       transform="translate(-11.937282,-12.694307)"
        id="g2177-5">
       <text
          xml:space="preserve"
@@ -542,5 +547,4 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
            id="flowPara2029">Le réglement de l'événement est disponible sur le site de la France insoumise. L'organisation de l'événement se réserve le droit d'exclure toute personne qui y contreviendrait.</flowPara></flowRoot>    </g>
   </g>
-  <!-- {% endif %} -->
 </svg>
