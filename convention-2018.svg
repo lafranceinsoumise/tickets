@@ -5524,6 +5524,7 @@ EcE5t/H8AHwD1TvfUnTacrUAAAAASUVORK5CYII=
          x="103.16604"
          y="260.12613"
          style="stroke-width:0.26458332" /></text>
+         <!-- {% if bus_origin is defined %} -->
     <g
        id="g4016"
        transform="translate(0,1.5875006)">
@@ -5556,4 +5557,5 @@ EcE5t/H8AHwD1TvfUnTacrUAAAAASUVORK5CYII=
            id="flowPara4001" /><flowPara
            id="flowPara4005">{{ horaire }}</flowPara></flowRoot>    </g>
   </g>
+  <!-- {% endif %} -->
 </svg>
